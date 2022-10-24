@@ -9,7 +9,7 @@
 //o programa deve retornar "Você ainda não pode competir!"
 // && = E
 // || = OU
-
+//Atividade Pamela. Tamy e Elle.
 let idade = 3
 
 if (idade>=5 && idade<=7) {
