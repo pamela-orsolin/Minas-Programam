@@ -1,0 +1,47 @@
+body {
+    font-family: 'Time New Roman', Times, serif;
+    padding: 32px;
+   background-color: rgb(255, 182, 193);
+
+}
+.parte1 {
+    color: rgb(153, 51, 153);
+    font-size: 18px;
+}
+
+.parte2 {
+    color: rgb(113, 80, 173);
+    font-size: 18px;
+    text-align: start;
+}
+
+.img-perfil {
+    width: 200px;
+    height: 200;
+    text-align: center;
+}
+
+
+.div-sobre {
+    color: rgb(113, 80, 173);
+    text-align: start;
+}
+
+.lista-titulo {
+    color: rgb(153, 51, 153);
+    padding: 10px;
+}
+
+.parte3 {
+    color:rgb(113, 80, 173);
+    padding: 10 px;
+}
+
+.div-lista {
+    color:  rgb(153, 51, 153);
+    margin-bottom: 32px;
+
+}
+.parte4{
+    color: rgb(255, 0, 0)
+}
